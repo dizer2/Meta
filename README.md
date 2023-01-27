@@ -11,4 +11,4 @@
 
 ---
 
-https://dizer2.github.io/Meta/
+https://yurii-meta-app.netlify.app/
